@@ -34,5 +34,5 @@
 <hr>
 
 <p>
-  Desenvolvido por Bernardo.
+  Desenvolvido por Bernardo Lopes e Guilherme Jensen.
 </p>
